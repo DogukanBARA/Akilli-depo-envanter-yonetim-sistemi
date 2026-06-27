@@ -1,0 +1,5 @@
+{
+  "name": "Akıllı Depo ve Envanter Yönetim Sistemi",
+  "description": "Stok/envanter takibi, kıyafet zimmet teslimatı (e-imza+foto), görev & hatırlatıcılar, kullanıcı yönetimi ve raporlama içeren depo yönetim sistemi.",
+  "requestFramePermissions": []
+}
